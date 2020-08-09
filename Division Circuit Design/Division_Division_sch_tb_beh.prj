@@ -1,0 +1,6 @@
+vhdl work "divisionPkg.vhd"
+vhdl work "DivRegister.vhd"
+vhdl work "Control.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Division.vhf"
+vhdl work "TopModule.vhd"
